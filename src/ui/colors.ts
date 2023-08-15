@@ -1,0 +1,9 @@
+export const COLORS = {
+  PRIMARY: '#4A55A2',
+  SECONDARY: '#7895CB',
+  PERIWINKLE: '#A0BFE0',
+  ICE_BLUE: '#C5DFF8',
+  BLACK: '#272829',
+  WHITE: '#FFFFFF',
+  GREY: '#D8D9DA',
+};
