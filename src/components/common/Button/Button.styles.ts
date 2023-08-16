@@ -1,5 +1,5 @@
 import {StyleSheet} from 'react-native';
-import UI from '../../ui';
+import UI from '../../../ui';
 
 export const styles = StyleSheet.create({
   container: {
@@ -8,6 +8,7 @@ export const styles = StyleSheet.create({
     borderRadius: 15,
     backgroundColor: UI.COLORS.PRIMARY,
     alignSelf: 'flex-start',
+    alignItems: 'center',
   },
   label: {
     color: UI.COLORS.WHITE,
